@@ -19,10 +19,10 @@ Kendi yazdığım algoritmaların gerçek bir otonom araç üzerinde (belki bir 
 ---
 "Kod yazmak sadece bir iş değil, makinelerle konuşma sanatıdır."
 
-# Hi there, I'm etemtalha! 👋
-
 //////////////////////////////////////////////////////////////////////////////
 
+
+# Hi there, I'm etemtalha! 👋
 
 I am a 21-year-old university student who is passionate about learning and self-improvement. Currently, I am balancing my academic studies while diving deep into the world of software development, with a specific focus on autonomous systems.
 
